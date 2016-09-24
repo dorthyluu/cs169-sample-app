@@ -5,4 +5,5 @@ The README for these projects should include the following at the very top:
 * Travis CI badge
 * Link to Pivotal Tracker project
 * Link to Heroku app
+* A brief explanation of the customer's business need that the app addresses, including a link to the customer's website
 
